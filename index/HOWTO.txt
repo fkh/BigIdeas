@@ -1,0 +1,23 @@
+HOWTO
+
+== get data ==
+Get the scraped list of ideas from scraper wiki
+Export as csv
+Clean up in Google Refine
+
+== prepare index ==
+Add LaTeX index commands
+Make the indexed file into html with tth
+
+== layout ==
+Drop body html into template
+Copy index table from tth and clean it up
+
+== Credits ==
+LaTeX
+tth http://hutchinson.belmont.ma.us/tth/tth-noncom/download.html
+Local Scroll http://flesler.blogspot.com/2007/10/jquerylocalscroll-10.html
+Masonry layout http://masonry.desandro.com/
+Scraperwiki
+jquery
+Google Refine
