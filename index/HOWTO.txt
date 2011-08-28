@@ -1,7 +1,7 @@
 HOWTO
 
 == get data ==
-Get the scraped list of ideas from scraper wiki
+Get the scraped list of ideas from scraper wiki http://scraperwiki.com/scrapers/nyc_bigapps_ideas_2/
 Export as csv
 Clean up in Google Refine
 
